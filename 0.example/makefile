@@ -1,3 +1,4 @@
+# conda activate mycutlass
 export CUTLASS_ROOT=/home/li/cutlass
 
 0.example:
